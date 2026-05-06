@@ -1,0 +1,3294 @@
+{
+    "3gp": [
+        "binary",
+        "video"
+    ],
+    "7z": [
+        "binary",
+        "archive"
+    ],
+    "ai": [
+        "binary",
+        "vector_graphic"
+    ],
+    "aiff": [
+        "binary",
+        "audio"
+    ],
+    "apk": [
+        "binary",
+        "archive"
+    ],
+    "arw": [
+        "binary",
+        "raw_image"
+    ],
+    "avi": [
+        "binary",
+        "video"
+    ],
+    "bmp": [
+        "binary",
+        "image"
+    ],
+    "bz2": [
+        "binary",
+        "archive"
+    ],
+    "class": [
+        "binary",
+        "executable"
+    ],
+    "cr2": [
+        "binary",
+        "raw_image"
+    ],
+    "cr3": [
+        "binary",
+        "raw_image"
+    ],
+    "crw": [
+        "binary",
+        "raw_image"
+    ],
+    "deb": [
+        "binary",
+        "executable"
+    ],
+    "djvu": [
+        "binary",
+        "publication"
+    ],
+    "dll": [
+        "binary",
+        "executable"
+    ],
+    "dmg": [
+        "binary",
+        "archive"
+    ],
+    "dng": [
+        "binary",
+        "raw_image"
+    ],
+    "doc": [
+        "binary",
+        "office_document"
+    ],
+    "docx": [
+        "binary",
+        "office_document"
+    ],
+    "dwg": [
+        "binary",
+        "3d_model"
+    ],
+    "elf": [
+        "binary",
+        "executable"
+    ],
+    "eps": [
+        "binary",
+        "vector_graphic"
+    ],
+    "epub": [
+        "binary",
+        "publication"
+    ],
+    "exe": [
+        "binary",
+        "executable"
+    ],
+    "flac": [
+        "binary",
+        "audio"
+    ],
+    "gif": [
+        "binary",
+        "image"
+    ],
+    "gz": [
+        "binary",
+        "archive"
+    ],
+    "heic": [
+        "binary",
+        "image"
+    ],
+    "jar": [
+        "binary",
+        "archive"
+    ],
+    "jpg": [
+        "binary",
+        "image"
+    ],
+    "key": [
+        "binary",
+        "office_document"
+    ],
+    "m4a": [
+        "binary",
+        "audio"
+    ],
+    "mach-o": [
+        "binary",
+        "executable"
+    ],
+    "midi": [
+        "binary",
+        "audio"
+    ],
+    "mkv": [
+        "binary",
+        "video"
+    ],
+    "mobi": [
+        "binary",
+        "publication"
+    ],
+    "mov": [
+        "binary",
+        "video"
+    ],
+    "mp3": [
+        "binary",
+        "audio"
+    ],
+    "mp4": [
+        "binary",
+        "video"
+    ],
+    "mpeg": [
+        "binary",
+        "video"
+    ],
+    "msi": [
+        "binary",
+        "archive"
+    ],
+    "nef": [
+        "binary",
+        "raw_image"
+    ],
+    "odg": [
+        "binary",
+        "vector_graphic"
+    ],
+    "odp": [
+        "binary",
+        "office_document"
+    ],
+    "ods": [
+        "binary",
+        "office_document"
+    ],
+    "odt": [
+        "binary",
+        "office_document"
+    ],
+    "oga": [
+        "binary",
+        "audio"
+    ],
+    "ogg": [
+        "binary",
+        "audio"
+    ],
+    "ogv": [
+        "binary",
+        "video"
+    ],
+    "opus": [
+        "binary",
+        "audio"
+    ],
+    "orf": [
+        "binary",
+        "raw_image"
+    ],
+    "oxps": [
+        "binary",
+        "publication"
+    ],
+    "pcap": [
+        "binary",
+        "network_data"
+    ],
+    "pcapng": [
+        "binary",
+        "network_data"
+    ],
+    "pdf": [
+        "binary",
+        "publication"
+    ],
+    "pef": [
+        "binary",
+        "raw_image"
+    ],
+    "pem": [
+        "binary",
+        "certificate"
+    ],
+    "pkg": [
+        "binary",
+        "archive"
+    ],
+    "png": [
+        "binary",
+        "image"
+    ],
+    "ppt": [
+        "binary",
+        "office_document"
+    ],
+    "pptx": [
+        "binary",
+        "office_document"
+    ],
+    "psd": [
+        "binary",
+        "vector_graphic"
+    ],
+    "pyc": [
+        "binary",
+        "executable"
+    ],
+    "raf": [
+        "binary",
+        "raw_image"
+    ],
+    "rar": [
+        "binary",
+        "archive"
+    ],
+    "rpm": [
+        "binary",
+        "archive"
+    ],
+    "rw2": [
+        "binary",
+        "raw_image"
+    ],
+    "sqlite": [
+        "binary",
+        "database"
+    ],
+    "stl": [
+        "binary",
+        "3d_model"
+    ],
+    "tiff": [
+        "binary",
+        "image"
+    ],
+    "ttf": [
+        "binary",
+        "font"
+    ],
+    "wav": [
+        "binary",
+        "audio"
+    ],
+    "webm": [
+        "binary",
+        "video"
+    ],
+    "webp": [
+        "binary",
+        "image"
+    ],
+    "wma": [
+        "binary",
+        "audio"
+    ],
+    "wmv": [
+        "binary",
+        "video"
+    ],
+    "xcf": [
+        "binary",
+        "image"
+    ],
+    "xls": [
+        "binary",
+        "office_document"
+    ],
+    "xlsx": [
+        "binary",
+        "office_document"
+    ],
+    "xz": [
+        "binary",
+        "archive"
+    ],
+    "zip": [
+        "binary",
+        "archive"
+    ],
+    "3fr": [
+        "binary",
+        "raw_image"
+    ],
+    "arq": [
+        "binary",
+        "archive"
+    ],
+    "gpr": [
+        "binary",
+        "raw_image"
+    ],
+    "nrw": [
+        "binary",
+        "raw_image"
+    ],
+    "1": [
+        "text",
+        "plain_text"
+    ],
+    "1m": [
+        "text",
+        "plain_text"
+    ],
+    "2": [
+        "text",
+        "plain_text"
+    ],
+    "3": [
+        "text",
+        "plain_text"
+    ],
+    "3in": [
+        "text",
+        "plain_text"
+    ],
+    "3x": [
+        "text",
+        "plain_text"
+    ],
+    "4": [
+        "text",
+        "plain_text"
+    ],
+    "5": [
+        "text",
+        "plain_text"
+    ],
+    "6": [
+        "text",
+        "plain_text"
+    ],
+    "7": [
+        "text",
+        "plain_text"
+    ],
+    "8": [
+        "text",
+        "plain_text"
+    ],
+    "9": [
+        "text",
+        "plain_text"
+    ],
+    "abap": [
+        "text",
+        "code"
+    ],
+    "ada": [
+        "text",
+        "code"
+    ],
+    "adb": [
+        "text",
+        "code"
+    ],
+    "ado": [
+        "text",
+        "code"
+    ],
+    "adoc": [
+        "text",
+        "markup"
+    ],
+    "adp": [
+        "text",
+        "textual_data"
+    ],
+    "ads": [
+        "text",
+        "code"
+    ],
+    "agda": [
+        "text",
+        "code"
+    ],
+    "ahk": [
+        "text",
+        "code"
+    ],
+    "aj": [
+        "text",
+        "code"
+    ],
+    "al": [
+        "text",
+        "code"
+    ],
+    "als": [
+        "text",
+        "code"
+    ],
+    "anim": [
+        "text",
+        "textual_data"
+    ],
+    "apib": [
+        "text",
+        "textual_data"
+    ],
+    "applescript": [
+        "text",
+        "code"
+    ],
+    "arc": [
+        "text",
+        "code"
+    ],
+    "arpa": [
+        "text",
+        "textual_data"
+    ],
+    "as": [
+        "text",
+        "code"
+    ],
+    "asax": [
+        "text",
+        "code"
+    ],
+    "asciidoc": [
+        "text",
+        "markup"
+    ],
+    "ascx": [
+        "text",
+        "code"
+    ],
+    "asd": [
+        "text",
+        "textual_data"
+    ],
+    "ash": [
+        "text",
+        "code"
+    ],
+    "ashx": [
+        "text",
+        "code"
+    ],
+    "asm": [
+        "text",
+        "code"
+    ],
+    "asmx": [
+        "text",
+        "code"
+    ],
+    "asp": [
+        "text",
+        "code"
+    ],
+    "aspx": [
+        "text",
+        "code"
+    ],
+    "au3": [
+        "text",
+        "code"
+    ],
+    "aux": [
+        "text",
+        "markup"
+    ],
+    "awk": [
+        "text",
+        "code"
+    ],
+    "axd": [
+        "text",
+        "code"
+    ],
+    "axml": [
+        "text",
+        "markup"
+    ],
+    "bas": [
+        "text",
+        "code"
+    ],
+    "bash": [
+        "text",
+        "code"
+    ],
+    "bat": [
+        "text",
+        "code"
+    ],
+    "bats": [
+        "text",
+        "code"
+    ],
+    "bb": [
+        "text",
+        "textual_data"
+    ],
+    "bbx": [
+        "text",
+        "markup"
+    ],
+    "bf": [
+        "text",
+        "code"
+    ],
+    "bib": [
+        "text",
+        "markup"
+    ],
+    "bmx": [
+        "text",
+        "code"
+    ],
+    "boo": [
+        "text",
+        "code"
+    ],
+    "brd": [
+        "text",
+        "textual_data"
+    ],
+    "brs": [
+        "text",
+        "code"
+    ],
+    "bsv": [
+        "text",
+        "code"
+    ],
+    "builder": [
+        "text",
+        "code"
+    ],
+    "bzl": [
+        "text",
+        "code"
+    ],
+    "c": [
+        "text",
+        "code"
+    ],
+    "c++": [
+        "text",
+        "code"
+    ],
+    "cake": [
+        "text",
+        "code"
+    ],
+    "capnp": [
+        "text",
+        "textual_data"
+    ],
+    "cats": [
+        "text",
+        "code"
+    ],
+    "cbl": [
+        "text",
+        "code"
+    ],
+    "cc": [
+        "text",
+        "code"
+    ],
+    "cdf": [
+        "text",
+        "markup"
+    ],
+    "ceylon": [
+        "text",
+        "code"
+    ],
+    "cfc": [
+        "text",
+        "code"
+    ],
+    "cfg": [
+        "text",
+        "textual_data"
+    ],
+    "cfm": [
+        "text",
+        "code"
+    ],
+    "chpl": [
+        "text",
+        "code"
+    ],
+    "chs": [
+        "text",
+        "code"
+    ],
+    "cirru": [
+        "text",
+        "code"
+    ],
+    "cjsx": [
+        "text",
+        "code"
+    ],
+    "cl": [
+        "text",
+        "code"
+    ],
+    "clj": [
+        "text",
+        "code"
+    ],
+    "cljc": [
+        "text",
+        "code"
+    ],
+    "cljs": [
+        "text",
+        "code"
+    ],
+    "clp": [
+        "text",
+        "code"
+    ],
+    "clw": [
+        "text",
+        "code"
+    ],
+    "cmake": [
+        "text",
+        "textual_data"
+    ],
+    "cmd": [
+        "text",
+        "code"
+    ],
+    "cob": [
+        "text",
+        "code"
+    ],
+    "coffee": [
+        "text",
+        "code"
+    ],
+    "com": [
+        "text",
+        "textual_data"
+    ],
+    "command": [
+        "text",
+        "code"
+    ],
+    "cp": [
+        "text",
+        "code"
+    ],
+    "cpp": [
+        "text",
+        "code"
+    ],
+    "cproject": [
+        "text",
+        "textual_data"
+    ],
+    "cps": [
+        "text",
+        "textual_data"
+    ],
+    "cql": [
+        "text",
+        "code"
+    ],
+    "cr": [
+        "text",
+        "code"
+    ],
+    "cs": [
+        "text",
+        "code"
+    ],
+    "csd": [
+        "text",
+        "code"
+    ],
+    "csh": [
+        "text",
+        "code"
+    ],
+    "cshtml": [
+        "text",
+        "code"
+    ],
+    "csl": [
+        "text",
+        "code"
+    ],
+    "cson": [
+        "text",
+        "textual_data"
+    ],
+    "csproj": [
+        "text",
+        "textual_data"
+    ],
+    "css": [
+        "text",
+        "code"
+    ],
+    "csv": [
+        "text",
+        "textual_data"
+    ],
+    "csx": [
+        "text",
+        "code"
+    ],
+    "ct": [
+        "text",
+        "code"
+    ],
+    "ctp": [
+        "text",
+        "code"
+    ],
+    "cu": [
+        "text",
+        "code"
+    ],
+    "cuh": [
+        "text",
+        "code"
+    ],
+    "cxx": [
+        "text",
+        "code"
+    ],
+    "cy": [
+        "text",
+        "code"
+    ],
+    "dart": [
+        "text",
+        "code"
+    ],
+    "dats": [
+        "text",
+        "code"
+    ],
+    "ddl": [
+        "text",
+        "code"
+    ],
+    "decls": [
+        "text",
+        "code"
+    ],
+    "desktop": [
+        "text",
+        "textual_data"
+    ],
+    "dfm": [
+        "text",
+        "code"
+    ],
+    "diff": [
+        "text",
+        "textual_data"
+    ],
+    "dita": [
+        "text",
+        "markup"
+    ],
+    "ditamap": [
+        "text",
+        "markup"
+    ],
+    "dlm": [
+        "text",
+        "code"
+    ],
+    "dm": [
+        "text",
+        "code"
+    ],
+    "do": [
+        "text",
+        "code"
+    ],
+    "dockerfile": [
+        "text",
+        "code"
+    ],
+    "dot": [
+        "text",
+        "textual_data"
+    ],
+    "dpr": [
+        "text",
+        "code"
+    ],
+    "dtx": [
+        "text",
+        "markup"
+    ],
+    "dyalog": [
+        "text",
+        "code"
+    ],
+    "dylan": [
+        "text",
+        "code"
+    ],
+    "e": [
+        "text",
+        "code"
+    ],
+    "ebuild": [
+        "text",
+        "code"
+    ],
+    "ec": [
+        "text",
+        "code"
+    ],
+    "ecl": [
+        "text",
+        "code"
+    ],
+    "edn": [
+        "text",
+        "code"
+    ],
+    "eex": [
+        "text",
+        "code"
+    ],
+    "el": [
+        "text",
+        "code"
+    ],
+    "elm": [
+        "text",
+        "code"
+    ],
+    "em": [
+        "text",
+        "code"
+    ],
+    "emacs": [
+        "text",
+        "code"
+    ],
+    "erb": [
+        "text",
+        "code"
+    ],
+    "erl": [
+        "text",
+        "code"
+    ],
+    "es6": [
+        "text",
+        "code"
+    ],
+    "ex": [
+        "text",
+        "code"
+    ],
+    "exs": [
+        "text",
+        "code"
+    ],
+    "f": [
+        "text",
+        "code"
+    ],
+    "f03": [
+        "text",
+        "code"
+    ],
+    "f90": [
+        "text",
+        "code"
+    ],
+    "f95": [
+        "text",
+        "code"
+    ],
+    "factor": [
+        "text",
+        "code"
+    ],
+    "fan": [
+        "text",
+        "code"
+    ],
+    "feature": [
+        "text",
+        "code"
+    ],
+    "filters": [
+        "text",
+        "textual_data"
+    ],
+    "fish": [
+        "text",
+        "code"
+    ],
+    "flex": [
+        "text",
+        "code"
+    ],
+    "flux": [
+        "text",
+        "code"
+    ],
+    "for": [
+        "text",
+        "code"
+    ],
+    "fp": [
+        "text",
+        "code"
+    ],
+    "fpp": [
+        "text",
+        "code"
+    ],
+    "frag": [
+        "text",
+        "code"
+    ],
+    "frm": [
+        "text",
+        "code"
+    ],
+    "frx": [
+        "text",
+        "code"
+    ],
+    "fs": [
+        "text",
+        "code"
+    ],
+    "fsh": [
+        "text",
+        "code"
+    ],
+    "fsi": [
+        "text",
+        "code"
+    ],
+    "fsproj": [
+        "text",
+        "textual_data"
+    ],
+    "fsx": [
+        "text",
+        "code"
+    ],
+    "fth": [
+        "text",
+        "textual_data"
+    ],
+    "ftl": [
+        "text",
+        "code"
+    ],
+    "fun": [
+        "text",
+        "code"
+    ],
+    "fxml": [
+        "text",
+        "markup"
+    ],
+    "g": [
+        "text",
+        "code"
+    ],
+    "g4": [
+        "text",
+        "code"
+    ],
+    "gco": [
+        "text",
+        "code"
+    ],
+    "gcode": [
+        "text",
+        "code"
+    ],
+    "gd": [
+        "text",
+        "code"
+    ],
+    "gemspec": [
+        "text",
+        "textual_data"
+    ],
+    "geo": [
+        "text",
+        "code"
+    ],
+    "geojson": [
+        "text",
+        "textual_data"
+    ],
+    "geom": [
+        "text",
+        "code"
+    ],
+    "gf": [
+        "text",
+        "code"
+    ],
+    "gi": [
+        "text",
+        "code"
+    ],
+    "glade": [
+        "text",
+        "markup"
+    ],
+    "glsl": [
+        "text",
+        "code"
+    ],
+    "gms": [
+        "text",
+        "code"
+    ],
+    "gnu": [
+        "text",
+        "code"
+    ],
+    "gnuplot": [
+        "text",
+        "code"
+    ],
+    "go": [
+        "text",
+        "code"
+    ],
+    "gp": [
+        "text",
+        "code"
+    ],
+    "graphql": [
+        "text",
+        "textual_data"
+    ],
+    "groovy": [
+        "text",
+        "code"
+    ],
+    "gsp": [
+        "text",
+        "code"
+    ],
+    "gst": [
+        "text",
+        "code"
+    ],
+    "gv": [
+        "text",
+        "code"
+    ],
+    "gyp": [
+        "text",
+        "textual_data"
+    ],
+    "h": [
+        "text",
+        "code"
+    ],
+    "h++": [
+        "text",
+        "code"
+    ],
+    "haml": [
+        "text",
+        "code"
+    ],
+    "handlebars": [
+        "text",
+        "code"
+    ],
+    "hbs": [
+        "text",
+        "code"
+    ],
+    "hcl": [
+        "text",
+        "code"
+    ],
+    "hh": [
+        "text",
+        "code"
+    ],
+    "hlean": [
+        "text",
+        "code"
+    ],
+    "hlsl": [
+        "text",
+        "code"
+    ],
+    "hlsli": [
+        "text",
+        "code"
+    ],
+    "hpp": [
+        "text",
+        "code"
+    ],
+    "hrl": [
+        "text",
+        "code"
+    ],
+    "hs": [
+        "text",
+        "code"
+    ],
+    "hsc": [
+        "text",
+        "code"
+    ],
+    "html": [
+        "text",
+        "markup"
+    ],
+    "http": [
+        "text",
+        "textual_data"
+    ],
+    "hx": [
+        "text",
+        "code"
+    ],
+    "hxx": [
+        "text",
+        "code"
+    ],
+    "hy": [
+        "text",
+        "code"
+    ],
+    "iced": [
+        "text",
+        "code"
+    ],
+    "idr": [
+        "text",
+        "code"
+    ],
+    "ijs": [
+        "text",
+        "code"
+    ],
+    "iml": [
+        "text",
+        "textual_data"
+    ],
+    "ini": [
+        "text",
+        "textual_data"
+    ],
+    "inl": [
+        "text",
+        "code"
+    ],
+    "ino": [
+        "text",
+        "code"
+    ],
+    "ins": [
+        "text",
+        "markup"
+    ],
+    "io": [
+        "text",
+        "code"
+    ],
+    "ipf": [
+        "text",
+        "code"
+    ],
+    "ipp": [
+        "text",
+        "code"
+    ],
+    "ipynb": [
+        "text",
+        "code"
+    ],
+    "iss": [
+        "text",
+        "code"
+    ],
+    "j": [
+        "text",
+        "code"
+    ],
+    "jade": [
+        "text",
+        "code"
+    ],
+    "java": [
+        "text",
+        "code"
+    ],
+    "jbuilder": [
+        "text",
+        "code"
+    ],
+    "jelly": [
+        "text",
+        "code"
+    ],
+    "jinja": [
+        "text",
+        "code"
+    ],
+    "jl": [
+        "text",
+        "code"
+    ],
+    "jq": [
+        "text",
+        "code"
+    ],
+    "js": [
+        "text",
+        "code"
+    ],
+    "jscad": [
+        "text",
+        "code"
+    ],
+    "jsm": [
+        "text",
+        "code"
+    ],
+    "json": [
+        "text",
+        "textual_data"
+    ],
+    "json5": [
+        "text",
+        "textual_data"
+    ],
+    "jsonld": [
+        "text",
+        "textual_data"
+    ],
+    "jsp": [
+        "text",
+        "code"
+    ],
+    "jsx": [
+        "text",
+        "code"
+    ],
+    "kicad_pcb": [
+        "text",
+        "textual_data"
+    ],
+    "kid": [
+        "text",
+        "code"
+    ],
+    "kit": [
+        "text",
+        "code"
+    ],
+    "kml": [
+        "text",
+        "markup"
+    ],
+    "ksh": [
+        "text",
+        "code"
+    ],
+    "kt": [
+        "text",
+        "code"
+    ],
+    "kts": [
+        "text",
+        "code"
+    ],
+    "lagda": [
+        "text",
+        "code"
+    ],
+    "las": [
+        "text",
+        "code"
+    ],
+    "latte": [
+        "text",
+        "code"
+    ],
+    "launch": [
+        "text",
+        "markup"
+    ],
+    "ld": [
+        "text",
+        "code"
+    ],
+    "lds": [
+        "text",
+        "code"
+    ],
+    "lean": [
+        "text",
+        "code"
+    ],
+    "less": [
+        "text",
+        "code"
+    ],
+    "lex": [
+        "text",
+        "code"
+    ],
+    "lgt": [
+        "text",
+        "code"
+    ],
+    "lhs": [
+        "text",
+        "code"
+    ],
+    "liquid": [
+        "text",
+        "code"
+    ],
+    "lisp": [
+        "text",
+        "code"
+    ],
+    "litcoffee": [
+        "text",
+        "code"
+    ],
+    "ll": [
+        "text",
+        "code"
+    ],
+    "log": [
+        "text",
+        "textual_data"
+    ],
+    "lookml": [
+        "text",
+        "code"
+    ],
+    "lpr": [
+        "text",
+        "code"
+    ],
+    "ls": [
+        "text",
+        "code"
+    ],
+    "lsl": [
+        "text",
+        "code"
+    ],
+    "lsp": [
+        "text",
+        "code"
+    ],
+    "ltx": [
+        "text",
+        "markup"
+    ],
+    "lua": [
+        "text",
+        "code"
+    ],
+    "lvproj": [
+        "text",
+        "textual_data"
+    ],
+    "ly": [
+        "text",
+        "code"
+    ],
+    "m4": [
+        "text",
+        "code"
+    ],
+    "ma": [
+        "text",
+        "code"
+    ],
+    "mak": [
+        "text",
+        "code"
+    ],
+    "mako": [
+        "text",
+        "code"
+    ],
+    "man": [
+        "text",
+        "plain_text"
+    ],
+    "markdown": [
+        "text",
+        "markup"
+    ],
+    "mask": [
+        "text",
+        "code"
+    ],
+    "mata": [
+        "text",
+        "code"
+    ],
+    "matlab": [
+        "text",
+        "code"
+    ],
+    "maxhelp": [
+        "text",
+        "code"
+    ],
+    "maxpat": [
+        "text",
+        "code"
+    ],
+    "mcr": [
+        "text",
+        "code"
+    ],
+    "md": [
+        "text",
+        "markup"
+    ],
+    "me": [
+        "text",
+        "plain_text"
+    ],
+    "mediawiki": [
+        "text",
+        "markup"
+    ],
+    "meta": [
+        "text",
+        "textual_data"
+    ],
+    "metal": [
+        "text",
+        "code"
+    ],
+    "mir": [
+        "text",
+        "code"
+    ],
+    "mk": [
+        "text",
+        "code"
+    ],
+    "mkd": [
+        "text",
+        "markup"
+    ],
+    "mkdn": [
+        "text",
+        "markup"
+    ],
+    "mkii": [
+        "text",
+        "code"
+    ],
+    "mkiv": [
+        "text",
+        "code"
+    ],
+    "ml": [
+        "text",
+        "code"
+    ],
+    "mli": [
+        "text",
+        "code"
+    ],
+    "mll": [
+        "text",
+        "code"
+    ],
+    "mly": [
+        "text",
+        "code"
+    ],
+    "mm": [
+        "text",
+        "code"
+    ],
+    "mms": [
+        "text",
+        "code"
+    ],
+    "mo": [
+        "text",
+        "code"
+    ],
+    "monkey": [
+        "text",
+        "code"
+    ],
+    "moon": [
+        "text",
+        "code"
+    ],
+    "mpl": [
+        "text",
+        "code"
+    ],
+    "mspec": [
+        "text",
+        "code"
+    ],
+    "mss": [
+        "text",
+        "code"
+    ],
+    "mt": [
+        "text",
+        "code"
+    ],
+    "mu": [
+        "text",
+        "code"
+    ],
+    "mustache": [
+        "text",
+        "code"
+    ],
+    "mxml": [
+        "text",
+        "markup"
+    ],
+    "nasm": [
+        "text",
+        "code"
+    ],
+    "nb": [
+        "text",
+        "code"
+    ],
+    "nc": [
+        "text",
+        "code"
+    ],
+    "ni": [
+        "text",
+        "code"
+    ],
+    "nim": [
+        "text",
+        "code"
+    ],
+    "ninja": [
+        "text",
+        "textual_data"
+    ],
+    "nix": [
+        "text",
+        "code"
+    ],
+    "nlogo": [
+        "text",
+        "code"
+    ],
+    "no": [
+        "text",
+        "code"
+    ],
+    "nqp": [
+        "text",
+        "code"
+    ],
+    "nse": [
+        "text",
+        "code"
+    ],
+    "nsh": [
+        "text",
+        "code"
+    ],
+    "nsi": [
+        "text",
+        "code"
+    ],
+    "nuspec": [
+        "text",
+        "textual_data"
+    ],
+    "nut": [
+        "text",
+        "code"
+    ],
+    "objdump": [
+        "text",
+        "code"
+    ],
+    "ooc": [
+        "text",
+        "code"
+    ],
+    "org": [
+        "text",
+        "markup"
+    ],
+    "osm": [
+        "text",
+        "code"
+    ],
+    "owl": [
+        "text",
+        "markup"
+    ],
+    "oz": [
+        "text",
+        "code"
+    ],
+    "p6": [
+        "text",
+        "code"
+    ],
+    "pac": [
+        "text",
+        "code"
+    ],
+    "pan": [
+        "text",
+        "code"
+    ],
+    "pas": [
+        "text",
+        "code"
+    ],
+    "pat": [
+        "text",
+        "code"
+    ],
+    "patch": [
+        "text",
+        "textual_data"
+    ],
+    "pb": [
+        "text",
+        "code"
+    ],
+    "pbi": [
+        "text",
+        "code"
+    ],
+    "pck": [
+        "text",
+        "code"
+    ],
+    "pd": [
+        "text",
+        "code"
+    ],
+    "pde": [
+        "text",
+        "code"
+    ],
+    "perl": [
+        "text",
+        "code"
+    ],
+    "ph": [
+        "text",
+        "code"
+    ],
+    "php": [
+        "text",
+        "code"
+    ],
+    "phpt": [
+        "text",
+        "code"
+    ],
+    "phtml": [
+        "text",
+        "code"
+    ],
+    "pir": [
+        "text",
+        "code"
+    ],
+    "pkb": [
+        "text",
+        "code"
+    ],
+    "pks": [
+        "text",
+        "code"
+    ],
+    "pl": [
+        "text",
+        "code"
+    ],
+    "plist": [
+        "text",
+        "markup"
+    ],
+    "plot": [
+        "text",
+        "code"
+    ],
+    "pls": [
+        "text",
+        "code"
+    ],
+    "plt": [
+        "text",
+        "code"
+    ],
+    "pm": [
+        "text",
+        "code"
+    ],
+    "pm6": [
+        "text",
+        "code"
+    ],
+    "po": [
+        "text",
+        "code"
+    ],
+    "pod": [
+        "text",
+        "markup"
+    ],
+    "podspec": [
+        "text",
+        "textual_data"
+    ],
+    "pony": [
+        "text",
+        "code"
+    ],
+    "pot": [
+        "text",
+        "code"
+    ],
+    "pov": [
+        "text",
+        "code"
+    ],
+    "prc": [
+        "text",
+        "code"
+    ],
+    "prefs": [
+        "text",
+        "textual_data"
+    ],
+    "pri": [
+        "text",
+        "textual_data"
+    ],
+    "properties": [
+        "text",
+        "textual_data"
+    ],
+    "props": [
+        "text",
+        "textual_data"
+    ],
+    "proto": [
+        "text",
+        "textual_data"
+    ],
+    "ps": [
+        "text",
+        "code"
+    ],
+    "ps1": [
+        "text",
+        "code"
+    ],
+    "ps1xml": [
+        "text",
+        "code"
+    ],
+    "psc": [
+        "text",
+        "code"
+    ],
+    "psd1": [
+        "text",
+        "code"
+    ],
+    "psm1": [
+        "text",
+        "code"
+    ],
+    "purs": [
+        "text",
+        "code"
+    ],
+    "pwn": [
+        "text",
+        "code"
+    ],
+    "pxd": [
+        "text",
+        "code"
+    ],
+    "pxi": [
+        "text",
+        "code"
+    ],
+    "py": [
+        "text",
+        "code"
+    ],
+    "pyt": [
+        "text",
+        "code"
+    ],
+    "pyw": [
+        "text",
+        "code"
+    ],
+    "pyx": [
+        "text",
+        "code"
+    ],
+    "qbs": [
+        "text",
+        "code"
+    ],
+    "qml": [
+        "text",
+        "code"
+    ],
+    "r": [
+        "text",
+        "code"
+    ],
+    "rake": [
+        "text",
+        "code"
+    ],
+    "raml": [
+        "text",
+        "code"
+    ],
+    "rb": [
+        "text",
+        "code"
+    ],
+    "rbbas": [
+        "text",
+        "code"
+    ],
+    "rd": [
+        "text",
+        "code"
+    ],
+    "rdf": [
+        "text",
+        "markup"
+    ],
+    "rdoc": [
+        "text",
+        "markup"
+    ],
+    "reb": [
+        "text",
+        "code"
+    ],
+    "red": [
+        "text",
+        "code"
+    ],
+    "reds": [
+        "text",
+        "code"
+    ],
+    "rest": [
+        "text",
+        "markup"
+    ],
+    "rg": [
+        "text",
+        "code"
+    ],
+    "rhtml": [
+        "text",
+        "code"
+    ],
+    "rktd": [
+        "text",
+        "code"
+    ],
+    "rktl": [
+        "text",
+        "code"
+    ],
+    "rl": [
+        "text",
+        "code"
+    ],
+    "rmd": [
+        "text",
+        "markup"
+    ],
+    "robot": [
+        "text",
+        "code"
+    ],
+    "ron": [
+        "text",
+        "textual_data"
+    ],
+    "rpy": [
+        "text",
+        "code"
+    ],
+    "rq": [
+        "text",
+        "code"
+    ],
+    "rs": [
+        "text",
+        "code"
+    ],
+    "rss": [
+        "text",
+        "markup"
+    ],
+    "rst": [
+        "text",
+        "markup"
+    ],
+    "rtf": [
+        "text",
+        "markup"
+    ],
+    "ru": [
+        "text",
+        "code"
+    ],
+    "s": [
+        "text",
+        "code"
+    ],
+    "sage": [
+        "text",
+        "code"
+    ],
+    "sas": [
+        "text",
+        "code"
+    ],
+    "sass": [
+        "text",
+        "code"
+    ],
+    "sats": [
+        "text",
+        "code"
+    ],
+    "sbt": [
+        "text",
+        "code"
+    ],
+    "scad": [
+        "text",
+        "code"
+    ],
+    "scala": [
+        "text",
+        "code"
+    ],
+    "scd": [
+        "text",
+        "code"
+    ],
+    "sce": [
+        "text",
+        "code"
+    ],
+    "sch": [
+        "text",
+        "code"
+    ],
+    "sci": [
+        "text",
+        "code"
+    ],
+    "scm": [
+        "text",
+        "code"
+    ],
+    "scrbl": [
+        "text",
+        "code"
+    ],
+    "scss": [
+        "text",
+        "code"
+    ],
+    "sexp": [
+        "text",
+        "code"
+    ],
+    "sh": [
+        "text",
+        "code"
+    ],
+    "shader": [
+        "text",
+        "code"
+    ],
+    "sig": [
+        "text",
+        "code"
+    ],
+    "sj": [
+        "text",
+        "code"
+    ],
+    "sjs": [
+        "text",
+        "code"
+    ],
+    "sl": [
+        "text",
+        "code"
+    ],
+    "sld": [
+        "text",
+        "code"
+    ],
+    "slim": [
+        "text",
+        "code"
+    ],
+    "sls": [
+        "text",
+        "markup"
+    ],
+    "sma": [
+        "text",
+        "code"
+    ],
+    "smali": [
+        "text",
+        "code"
+    ],
+    "sml": [
+        "text",
+        "code"
+    ],
+    "smt": [
+        "text",
+        "code"
+    ],
+    "smt2": [
+        "text",
+        "code"
+    ],
+    "sol": [
+        "text",
+        "code"
+    ],
+    "sp": [
+        "text",
+        "code"
+    ],
+    "sparql": [
+        "text",
+        "code"
+    ],
+    "spin": [
+        "text",
+        "code"
+    ],
+    "sps": [
+        "text",
+        "code"
+    ],
+    "sqf": [
+        "text",
+        "code"
+    ],
+    "sql": [
+        "text",
+        "code"
+    ],
+    "st": [
+        "text",
+        "code"
+    ],
+    "stan": [
+        "text",
+        "code"
+    ],
+    "sthlp": [
+        "text",
+        "code"
+    ],
+    "storyboard": [
+        "text",
+        "markup"
+    ],
+    "sty": [
+        "text",
+        "markup"
+    ],
+    "styl": [
+        "text",
+        "code"
+    ],
+    "sublime-snippet": [
+        "text",
+        "markup"
+    ],
+    "sv": [
+        "text",
+        "code"
+    ],
+    "svg": [
+        "text",
+        "markup"
+    ],
+    "svh": [
+        "text",
+        "code"
+    ],
+    "swift": [
+        "text",
+        "code"
+    ],
+    "t": [
+        "text",
+        "code"
+    ],
+    "tab": [
+        "text",
+        "textual_data"
+    ],
+    "targets": [
+        "text",
+        "textual_data"
+    ],
+    "tcc": [
+        "text",
+        "code"
+    ],
+    "tcl": [
+        "text",
+        "code"
+    ],
+    "tea": [
+        "text",
+        "code"
+    ],
+    "tex": [
+        "text",
+        "markup"
+    ],
+    "textile": [
+        "text",
+        "markup"
+    ],
+    "tf": [
+        "text",
+        "code"
+    ],
+    "thrift": [
+        "text",
+        "textual_data"
+    ],
+    "thy": [
+        "text",
+        "code"
+    ],
+    "tm": [
+        "text",
+        "code"
+    ],
+    "tml": [
+        "text",
+        "code"
+    ],
+    "toc": [
+        "text",
+        "markup"
+    ],
+    "toml": [
+        "text",
+        "textual_data"
+    ],
+    "topojson": [
+        "text",
+        "textual_data"
+    ],
+    "tpl": [
+        "text",
+        "textual_data"
+    ],
+    "tpp": [
+        "text",
+        "code"
+    ],
+    "ts": [
+        "text",
+        "code"
+    ],
+    "tsx": [
+        "text",
+        "code"
+    ],
+    "ttl": [
+        "text",
+        "code"
+    ],
+    "tu": [
+        "text",
+        "code"
+    ],
+    "twig": [
+        "text",
+        "code"
+    ],
+    "txt": [
+        "text",
+        "plain_text"
+    ],
+    "uc": [
+        "text",
+        "code"
+    ],
+    "ui": [
+        "text",
+        "markup"
+    ],
+    "uno": [
+        "text",
+        "code"
+    ],
+    "ur": [
+        "text",
+        "code"
+    ],
+    "urdf": [
+        "text",
+        "markup"
+    ],
+    "vala": [
+        "text",
+        "code"
+    ],
+    "vapi": [
+        "text",
+        "code"
+    ],
+    "vb": [
+        "text",
+        "code"
+    ],
+    "vba": [
+        "text",
+        "code"
+    ],
+    "vbproj": [
+        "text",
+        "textual_data"
+    ],
+    "vbs": [
+        "text",
+        "code"
+    ],
+    "vcl": [
+        "text",
+        "code"
+    ],
+    "vcxproj": [
+        "text",
+        "textual_data"
+    ],
+    "veo": [
+        "text",
+        "textual_data"
+    ],
+    "vert": [
+        "text",
+        "code"
+    ],
+    "vh": [
+        "text",
+        "code"
+    ],
+    "vhd": [
+        "text",
+        "code"
+    ],
+    "vhdl": [
+        "text",
+        "code"
+    ],
+    "vho": [
+        "text",
+        "code"
+    ],
+    "vim": [
+        "text",
+        "code"
+    ],
+    "volt": [
+        "text",
+        "code"
+    ],
+    "vsh": [
+        "text",
+        "code"
+    ],
+    "vssettings": [
+        "text",
+        "textual_data"
+    ],
+    "vue": [
+        "text",
+        "code"
+    ],
+    "w": [
+        "text",
+        "code"
+    ],
+    "wat": [
+        "text",
+        "code"
+    ],
+    "webidl": [
+        "text",
+        "markup"
+    ],
+    "weechatlog": [
+        "text",
+        "textual_data"
+    ],
+    "wiki": [
+        "text",
+        "markup"
+    ],
+    "wl": [
+        "text",
+        "code"
+    ],
+    "wsdl": [
+        "text",
+        "markup"
+    ],
+    "wxi": [
+        "text",
+        "markup"
+    ],
+    "wxl": [
+        "text",
+        "markup"
+    ],
+    "wxs": [
+        "text",
+        "markup"
+    ],
+    "x": [
+        "text",
+        "markup"
+    ],
+    "x3d": [
+        "text",
+        "markup"
+    ],
+    "xacro": [
+        "text",
+        "markup"
+    ],
+    "xaml": [
+        "text",
+        "markup"
+    ],
+    "xc": [
+        "text",
+        "code"
+    ],
+    "xht": [
+        "text",
+        "markup"
+    ],
+    "xhtml": [
+        "text",
+        "markup"
+    ],
+    "xib": [
+        "text",
+        "markup"
+    ],
+    "xlf": [
+        "text",
+        "markup"
+    ],
+    "xliff": [
+        "text",
+        "markup"
+    ],
+    "xm": [
+        "text",
+        "code"
+    ],
+    "xmi": [
+        "text",
+        "markup"
+    ],
+    "xml": [
+        "text",
+        "markup"
+    ],
+    "xsd": [
+        "text",
+        "markup"
+    ],
+    "yaml": [
+        "text",
+        "textual_data"
+    ],
+    "yap": [
+        "text",
+        "code"
+    ],
+    "yrl": [
+        "text",
+        "code"
+    ],
+    "zone": [
+        "text",
+        "code"
+    ],
+    "zsh": [
+        "text",
+        "code"
+    ],
+    "1in": [
+        "text",
+        "plain_text"
+    ],
+    "1x": [
+        "text",
+        "plain_text"
+    ],
+    "3m": [
+        "text",
+        "plain_text"
+    ],
+    "3qt": [
+        "text",
+        "plain_text"
+    ],
+    "4th": [
+        "text",
+        "code"
+    ],
+    "a51": [
+        "text",
+        "code"
+    ],
+    "ampl": [
+        "text",
+        "code"
+    ],
+    "ant": [
+        "text",
+        "code"
+    ],
+    "apl": [
+        "text",
+        "code"
+    ],
+    "auk": [
+        "text",
+        "code"
+    ],
+    "aw": [
+        "text",
+        "code"
+    ],
+    "axi": [
+        "text",
+        "code"
+    ],
+    "axs": [
+        "text",
+        "code"
+    ],
+    "bison": [
+        "text",
+        "code"
+    ],
+    "bones": [
+        "text",
+        "textual_data"
+    ],
+    "boot": [
+        "text",
+        "code"
+    ],
+    "bro": [
+        "text",
+        "code"
+    ],
+    "cbx": [
+        "text",
+        "code"
+    ],
+    "ccp": [
+        "text",
+        "code"
+    ],
+    "ccxml": [
+        "text",
+        "markup"
+    ],
+    "cfml": [
+        "text",
+        "code"
+    ],
+    "ck": [
+        "text",
+        "code"
+    ],
+    "cl2": [
+        "text",
+        "code"
+    ],
+    "click": [
+        "text",
+        "code"
+    ],
+    "clixml": [
+        "text",
+        "markup"
+    ],
+    "cljscm": [
+        "text",
+        "code"
+    ],
+    "cljx": [
+        "text",
+        "code"
+    ],
+    "cobol": [
+        "text",
+        "code"
+    ],
+    "cpy": [
+        "text",
+        "code"
+    ],
+    "cw": [
+        "text",
+        "code"
+    ],
+    "db2": [
+        "text",
+        "code"
+    ],
+    "dcl": [
+        "text",
+        "code"
+    ],
+    "di": [
+        "text",
+        "code"
+    ],
+    "ditaval": [
+        "text",
+        "markup"
+    ],
+    "doh": [
+        "text",
+        "code"
+    ],
+    "dotsettings": [
+        "text",
+        "textual_data"
+    ],
+    "dpatch": [
+        "text",
+        "code"
+    ],
+    "duby": [
+        "text",
+        "code"
+    ],
+    "dyl": [
+        "text",
+        "code"
+    ],
+    "eclass": [
+        "text",
+        "code"
+    ],
+    "eclxml": [
+        "text",
+        "markup"
+    ],
+    "eh": [
+        "text",
+        "code"
+    ],
+    "eliom": [
+        "text",
+        "code"
+    ],
+    "eliomi": [
+        "text",
+        "code"
+    ],
+    "epj": [
+        "text",
+        "textual_data"
+    ],
+    "escript": [
+        "text",
+        "code"
+    ],
+    "f08": [
+        "text",
+        "code"
+    ],
+    "f77": [
+        "text",
+        "code"
+    ],
+    "fancypack": [
+        "text",
+        "code"
+    ],
+    "forth": [
+        "text",
+        "code"
+    ],
+    "frg": [
+        "text",
+        "code"
+    ],
+    "frt": [
+        "text",
+        "code"
+    ],
+    "fshader": [
+        "text",
+        "code"
+    ],
+    "fxh": [
+        "text",
+        "code"
+    ],
+    "gap": [
+        "text",
+        "code"
+    ],
+    "gawk": [
+        "text",
+        "code"
+    ],
+    "glf": [
+        "text",
+        "code"
+    ],
+    "glslv": [
+        "text",
+        "code"
+    ],
+    "god": [
+        "text",
+        "code"
+    ],
+    "grt": [
+        "text",
+        "code"
+    ],
+    "grxml": [
+        "text",
+        "markup"
+    ],
+    "gsx": [
+        "text",
+        "code"
+    ],
+    "gtpl": [
+        "text",
+        "code"
+    ],
+    "gvy": [
+        "text",
+        "code"
+    ],
+    "hats": [
+        "text",
+        "code"
+    ],
+    "hb": [
+        "text",
+        "code"
+    ],
+    "hic": [
+        "text",
+        "code"
+    ],
+    "hqf": [
+        "text",
+        "code"
+    ],
+    "hxsl": [
+        "text",
+        "code"
+    ],
+    "i7x": [
+        "text",
+        "code"
+    ],
+    "icl": [
+        "text",
+        "code"
+    ],
+    "idc": [
+        "text",
+        "code"
+    ],
+    "ihlp": [
+        "text",
+        "code"
+    ],
+    "ik": [
+        "text",
+        "code"
+    ],
+    "ily": [
+        "text",
+        "code"
+    ],
+    "intr": [
+        "text",
+        "code"
+    ],
+    "irbrc": [
+        "text",
+        "code"
+    ],
+    "irclog": [
+        "text",
+        "code"
+    ],
+    "ivy": [
+        "text",
+        "textual_data"
+    ],
+    "jake": [
+        "text",
+        "code"
+    ],
+    "jflex": [
+        "text",
+        "code"
+    ],
+    "jsb": [
+        "text",
+        "code"
+    ],
+    "jsfl": [
+        "text",
+        "code"
+    ],
+    "jsproj": [
+        "text",
+        "textual_data"
+    ],
+    "jss": [
+        "text",
+        "code"
+    ],
+    "ktm": [
+        "text",
+        "code"
+    ],
+    "lasso": [
+        "text",
+        "code"
+    ],
+    "lasso9": [
+        "text",
+        "code"
+    ],
+    "lbx": [
+        "text",
+        "code"
+    ],
+    "ldml": [
+        "text",
+        "markup"
+    ],
+    "lfe": [
+        "text",
+        "code"
+    ],
+    "lid": [
+        "text",
+        "code"
+    ],
+    "lidr": [
+        "text",
+        "code"
+    ],
+    "lmi": [
+        "text",
+        "code"
+    ],
+    "logtalk": [
+        "text",
+        "code"
+    ],
+    "lslp": [
+        "text",
+        "code"
+    ],
+    "mao": [
+        "text",
+        "code"
+    ],
+    "matah": [
+        "text",
+        "code"
+    ],
+    "mathematica": [
+        "text",
+        "code"
+    ],
+    "mawk": [
+        "text",
+        "code"
+    ],
+    "maxproj": [
+        "text",
+        "textual_data"
+    ],
+    "mdpolicy": [
+        "text",
+        "textual_data"
+    ],
+    "mirah": [
+        "text",
+        "code"
+    ],
+    "mkdown": [
+        "text",
+        "code"
+    ],
+    "mkfile": [
+        "text",
+        "code"
+    ],
+    "mkvi": [
+        "text",
+        "code"
+    ],
+    "ml4": [
+        "text",
+        "code"
+    ],
+    "mmk": [
+        "text",
+        "code"
+    ],
+    "mumps": [
+        "text",
+        "code"
+    ],
+    "mxt": [
+        "text",
+        "code"
+    ],
+    "nawk": [
+        "text",
+        "code"
+    ],
+    "nbp": [
+        "text",
+        "code"
+    ],
+    "nimrod": [
+        "text",
+        "code"
+    ],
+    "njs": [
+        "text",
+        "code"
+    ],
+    "nproj": [
+        "text",
+        "textual_data"
+    ],
+    "nu": [
+        "text",
+        "code"
+    ],
+    "ny": [
+        "text",
+        "code"
+    ],
+    "oct": [
+        "text",
+        "code"
+    ],
+    "odd": [
+        "text",
+        "code"
+    ],
+    "opa": [
+        "text",
+        "code"
+    ],
+    "opencl": [
+        "text",
+        "code"
+    ],
+    "oxh": [
+        "text",
+        "code"
+    ],
+    "oxo": [
+        "text",
+        "code"
+    ],
+    "pd_lua": [
+        "text",
+        "code"
+    ],
+    "php3": [
+        "text",
+        "code"
+    ],
+    "php4": [
+        "text",
+        "code"
+    ],
+    "php5": [
+        "text",
+        "code"
+    ],
+    "phps": [
+        "text",
+        "code"
+    ],
+    "pig": [
+        "text",
+        "code"
+    ],
+    "pike": [
+        "text",
+        "code"
+    ],
+    "pl6": [
+        "text",
+        "code"
+    ],
+    "plb": [
+        "text",
+        "code"
+    ],
+    "plsql": [
+        "text",
+        "code"
+    ],
+    "plx": [
+        "text",
+        "code"
+    ],
+    "pmod": [
+        "text",
+        "code"
+    ],
+    "prolog": [
+        "text",
+        "code"
+    ],
+    "prw": [
+        "text",
+        "code"
+    ],
+    "psc1": [
+        "text",
+        "code"
+    ],
+    "psgi": [
+        "text",
+        "code"
+    ],
+    "pyde": [
+        "text",
+        "code"
+    ],
+    "pyp": [
+        "text",
+        "code"
+    ],
+    "pytb": [
+        "text",
+        "code"
+    ],
+    "r2": [
+        "text",
+        "code"
+    ],
+    "r3": [
+        "text",
+        "code"
+    ],
+    "rabl": [
+        "text",
+        "code"
+    ],
+    "rbfrm": [
+        "text",
+        "code"
+    ],
+    "rbmnu": [
+        "text",
+        "code"
+    ],
+    "rbres": [
+        "text",
+        "code"
+    ],
+    "rbtbar": [
+        "text",
+        "code"
+    ],
+    "rbw": [
+        "text",
+        "code"
+    ],
+    "rbx": [
+        "text",
+        "code"
+    ],
+    "rbxs": [
+        "text",
+        "code"
+    ],
+    "rebol": [
+        "text",
+        "code"
+    ],
+    "rno": [
+        "text",
+        "code"
+    ],
+    "roff": [
+        "text",
+        "markup"
+    ],
+    "rsh": [
+        "text",
+        "code"
+    ],
+    "rsx": [
+        "text",
+        "code"
+    ],
+    "ruby": [
+        "text",
+        "code"
+    ],
+    "sagews": [
+        "text",
+        "code"
+    ],
+    "scpt": [
+        "text",
+        "code"
+    ],
+    "scxml": [
+        "text",
+        "markup"
+    ],
+    "sh-session": [
+        "text",
+        "code"
+    ],
+    "srdf": [
+        "text",
+        "markup"
+    ],
+    "ssjs": [
+        "text",
+        "code"
+    ],
+    "tac": [
+        "text",
+        "code"
+    ],
+    "tcsh": [
+        "text",
+        "code"
+    ],
+    "thor": [
+        "text",
+        "code"
+    ],
+    "tmux": [
+        "text",
+        "code"
+    ],
+    "tool": [
+        "text",
+        "code"
+    ],
+    "udf": [
+        "text",
+        "code"
+    ],
+    "urs": [
+        "text",
+        "code"
+    ],
+    "ux": [
+        "text",
+        "code"
+    ],
+    "vark": [
+        "text",
+        "code"
+    ],
+    "vbhtml": [
+        "text",
+        "code"
+    ],
+    "vhf": [
+        "text",
+        "code"
+    ],
+    "vhi": [
+        "text",
+        "code"
+    ],
+    "vhost": [
+        "text",
+        "code"
+    ],
+    "vhs": [
+        "text",
+        "code"
+    ],
+    "vht": [
+        "text",
+        "code"
+    ],
+    "vhw": [
+        "text",
+        "code"
+    ],
+    "viw": [
+        "text",
+        "code"
+    ],
+    "vrx": [
+        "text",
+        "code"
+    ],
+    "vshader": [
+        "text",
+        "code"
+    ],
+    "vxml": [
+        "text",
+        "markup"
+    ],
+    "watchr": [
+        "text",
+        "code"
+    ],
+    "wlt": [
+        "text",
+        "code"
+    ],
+    "wlua": [
+        "text",
+        "code"
+    ],
+    "wsf": [
+        "text",
+        "code"
+    ],
+    "wsgi": [
+        "text",
+        "code"
+    ],
+    "xi": [
+        "text",
+        "code"
+    ],
+    "xproj": [
+        "text",
+        "textual_data"
+    ],
+    "xpy": [
+        "text",
+        "code"
+    ],
+    "xrl": [
+        "text",
+        "code"
+    ],
+    "xsjs": [
+        "text",
+        "code"
+    ],
+    "xsjslib": [
+        "text",
+        "code"
+    ],
+    "xul": [
+        "text",
+        "markup"
+    ],
+    "yml": [
+        "text",
+        "textual_data"
+    ],
+    "zcml": [
+        "text",
+        "markup"
+    ]
+}
